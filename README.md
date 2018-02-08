@@ -6,8 +6,6 @@ By replacing the last fully connected layer in VGG19 network, we can adjust the 
 
 The trained model can be saved and used to predict images.
 
->To use the VGG networks, the npy files for [VGG16 NPY](https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM) or [VGG19 NPY](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs) has to be downloaded.
-
 ## Usage
 Run `train.py` to perform transfer learning on VGG19.
 

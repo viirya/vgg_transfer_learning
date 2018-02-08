@@ -1,12 +1,7 @@
 
-import sys
-import argparse
-import re
 import os
-import urllib
 
-from numpy import array, zeros, mean, std, sort, add, subtract, divide, dot, sqrt, arange, random
-
+from numpy import array, random
 
 def get_files_in_dir(dirname, random_flag = False):
 
